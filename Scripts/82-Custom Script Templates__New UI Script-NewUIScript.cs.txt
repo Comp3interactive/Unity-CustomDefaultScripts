@@ -1,0 +1,21 @@
+using UnityEngine;
+using UnityEngine.UI;
+using TMPro;
+
+public class #SCRIPTNAME# : MonoBehaviour
+{
+    public void ButtonPressed()
+    {
+        #NOTRIM#
+    }
+
+    public void OpenWindow()
+    {
+        gameObject.SetActive(true);
+    }
+
+    public void CloseWindow()
+    {
+        gameObject.SetActive(false);
+    }
+}
