@@ -1,4 +1,7 @@
 # Unity-CustomDefaultScripts
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/c75ed988991a4c54ae0ba80a6e90061a)](https://app.codacy.com/manual/Comp3interactive/Unity-CustomDefaultScripts?utm_source=github.com&utm_medium=referral&utm_content=Comp3interactive/Unity-CustomDefaultScripts&utm_campaign=Badge_Grade_Dashboard)
+
 A collection of custom default scripts for Unity
 
 <h3>HOW TO USE</h3>
